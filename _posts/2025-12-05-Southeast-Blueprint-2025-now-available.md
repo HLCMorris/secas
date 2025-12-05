@@ -1,4 +1,4 @@
-The latest update to the Southeast Conservation Blueprint, version 2025, is now available! 
+The latest update to the [Southeast Conservation Blueprint](https://secassoutheast.org/blueprint), version 2025, is now available! 
 Here are the major improvements for this year: 
 **New indicators **
 - **Imperiled mammals** identifies potential habitat to support mammal Regional Species of Greatest Conservation Need (RSGCN).  
